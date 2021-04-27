@@ -51,4 +51,5 @@ footer p {
 #eredmeny {
   background-color: rgb(200, 200, 200);
   font-weight: bold;
+  border: 1px solid #ffc107;
 }
