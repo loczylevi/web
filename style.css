@@ -4,6 +4,8 @@ body {
 
 header {
   border: 1px solid white;
+  height: 200px;
+  background-image: url("fejlec.jpg");
 }
 
 header h1 {
